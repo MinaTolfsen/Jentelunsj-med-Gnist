@@ -1,0 +1,25 @@
+[
+    {
+        "navn": "Stitch",
+        "film": "Lilo & Stitch",
+        "beskrivelse": "Liten blå dude som er en alien"
+    },
+
+    {
+        "navn": "Mulan",
+        "film": "Mulan",
+        "beskrivelse": "Kinesisk jente som kler seg ut som en gutt for å dra i krig"
+    },
+
+    {
+        "navn": "dr. Pleakley",
+        "film": "Lilo & Stitch",
+        "beskrivelse": "En mann som kler seg ut som en dame"
+    },
+
+    {
+        "navn": "Rapunzel",
+        "film": "To på rømmen",
+        "beskrivelse": "En jente med langt hår som bor i et høyt tårn, med en ond heks som kaller seg selv for moren hennes"
+    }
+]
